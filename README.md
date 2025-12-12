@@ -1,7 +1,6 @@
-# Python-Data-Analytics-Project
+# Python---Marketing-Campaign-Performance-Insights
 
-
-
+In the highly competitive landscape of digital marketing, effectively evaluating the success of various marketing campaigns is essential for optimizing return on investment (ROI) and improving overall performance.
 
 Analyzing textual feedback is essential for extracting user sentiment and improving services. This project reads survey feedback entries from an in-memory data structure, lets users append more feedbacks, performs text cleaning, computes word-based insights, and summarizes ratings and unique vocabulary.
 
