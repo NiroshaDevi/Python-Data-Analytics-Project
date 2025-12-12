@@ -1,3 +1,6 @@
+[Module End Assignment 3_Python Fundamentals - Survey Feedback Analyzer.pdf](https://github.com/user-attachments/files/24122486/Module.End.Assignment.3_Python.Fundamentals.-.Survey.Feedback.Analyzer.pdf)
+[Module End Assignment 4_Python - Marketing Campaign Performance Insights.pdf](https://github.com/user-attachments/files/24122458/Module.End.Assignment.4_Python.-.Marketing.Campaign.Performance.Insights.pdf)
+[Module End Assignment 4_Python - Marketing Campaign Performance Insights.pdf](https://github.com/user-attachments/files/24122449/Module.End.Assignment.4_Python.-.Marketing.Campaign.Performance.Insights.pdf)
 # Python---Marketing-Campaign-Performance-Insights
 
 In the highly competitive landscape of digital marketing, effectively evaluating the success of various marketing campaigns is essential for optimizing return on investment (ROI) and improving overall performance.
