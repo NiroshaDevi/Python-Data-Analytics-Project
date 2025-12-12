@@ -1,6 +1,3 @@
-[Module End Assignment 3_Python Fundamentals - Survey Feedback Analyzer.pdf](https://github.com/user-attachments/files/24122486/Module.End.Assignment.3_Python.Fundamentals.-.Survey.Feedback.Analyzer.pdf)
-[Module End Assignment 4_Python - Marketing Campaign Performance Insights.pdf](https://github.com/user-attachments/files/24122458/Module.End.Assignment.4_Python.-.Marketing.Campaign.Performance.Insights.pdf)
-[Module End Assignment 4_Python - Marketing Campaign Performance Insights.pdf](https://github.com/user-attachments/files/24122449/Module.End.Assignment.4_Python.-.Marketing.Campaign.Performance.Insights.pdf)
 # Python---Marketing-Campaign-Performance-Insights
 
 In the highly competitive landscape of digital marketing, effectively evaluating the success of various marketing campaigns is essential for optimizing return on investment (ROI) and improving overall performance.
@@ -13,3 +10,5 @@ Allows the user to add more feedback entries interactively.
 Cleans feedback text by removing punctuation, trimming whitespace, collapsing multiple spaces, and converting to lowercase.
 Counts how many feedbacks contain given keywords (case-insensitive).
 Computes average rating, finds the longest feedback (by word count), and lists unique words used across all feedbacks.
+
+[Module End Assignment 3_Python Fundamentals - Survey Feedback Analyzer.pdf](https://github.com/user-attachments/files/24122486/Module.End.Assignment.3_Python.Fundamentals.-.Survey.Feedback.Analyzer.pdf)
